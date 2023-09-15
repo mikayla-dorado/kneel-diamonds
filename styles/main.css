@@ -1,0 +1,46 @@
+.choices {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: 100px;
+}
+
+.order{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.choices__styles{
+    border: dotted rgb(93, 178, 212);
+    border-radius: 30px;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.choices__sizes {
+    border: dotted rgb(93, 178, 212);
+    border-radius: 30px;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.choices__metals {
+    border: dotted rgb(93, 178, 212);
+    border-radius: 30px;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.button {
+    background-color: rgb(212, 82, 82);
+    width: 100px;
+    height: 50px;
+}
